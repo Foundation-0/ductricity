@@ -1,0 +1,23 @@
+{
+    "creators": [
+        {
+            "name": "Arifuddin, Ahraz"
+        }
+    ],
+    "title": "ductricity",
+    "description": "<p>This repository designs a duct whose wall both shapes the flow into drafts and eddies and takes energy out of the flow it shaped.</p><p>Status: project definition only. No device has been built. No performance figure is claimed.</p><p>Directed by Ahraz Arifuddin</p><p>Researched and verified by different model families across Gemini, Claude, Grok, OpenAI, and Muse</p>",
+    "upload_type": "software",
+    "keywords": [
+        "duct",
+        "fluid-flow",
+        "energy-extraction"
+    ],
+    "related_identifiers": [
+        {
+            "identifier": "https://github.com/Foundation-0/ductricity",
+            "relation": "isSupplementTo",
+            "scheme": "url",
+            "resource_type": "software"
+        }
+    ]
+}
