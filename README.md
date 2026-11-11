@@ -18,3 +18,12 @@ This project came out of [thermal-capture](https://github.com/Foundation-0/therm
 ## Status
 
 Project definition only. No device has been built. No performance figure is claimed.
+
+## Licence
+
+Copyright 2026 Ahraz Arifuddin.
+
+Code (`*.py` and other program files): [Apache License 2.0](LICENSE).
+
+Text and data (`README.md`, `ORIGIN.md`, `PROJECT.md`, and derived exports from them):
+[Creative Commons Attribution 4.0 International](LICENSE-DOCS) (CC BY 4.0).
