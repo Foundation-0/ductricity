@@ -6,8 +6,8 @@
     ],
     "title": "ductricity",
     "description": "<p>This repository designs a duct whose wall both shapes the flow into drafts and eddies and takes energy out of the flow it shaped.</p><p>Status: project definition only. No device has been built. No performance figure is claimed.</p><p>Directed by Ahraz Arifuddin</p><p>Researched and verified by different model families across Gemini, Claude, Grok, OpenAI, and Muse</p><p>Code (*.py and other program files) is Apache License 2.0. Text and data (README.md, ORIGIN.md, PROJECT.md, and derived exports from them) are Creative Commons Attribution 4.0 International (CC BY 4.0); see LICENSE-DOCS.</p>",
-    "upload_type": "software",
-    "license": "apache-2.0",
+    "upload_type": "other",
+    "license": "cc-by-4.0",
     "access_right": "open",
     "keywords": [
         "duct",
